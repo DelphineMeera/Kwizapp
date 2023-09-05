@@ -1,3 +1,5 @@
+**COFIGURATION GUIDELINES
+
 1. Install Node.js to use node package manager and node services.
 2. Configure monogDb if you want to use the Database locally
 3. Create a Project in Firebase and add the API key in the firebase.js file
